@@ -11,6 +11,17 @@ general-stats:
     evasion:
     armor:
     casting-cost:
+feats:
+    feat-1:
+    feat-2:
+    feat-3:
+    feat-4:
+    feat-5:
+flaws:
+    flaw-1:
+    flaw-2:
+    flaw-3:
+    flaw-4:
 combat-actions:
     aggressive-attack:
         bonus:
